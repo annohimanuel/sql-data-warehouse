@@ -160,8 +160,8 @@ data-warehouse-project/
 👤 About Me
 
 Imanuel Annoh
-Data Analyst | Data Scientist
-📍 Manchester, Connecticut
+- **Data Analyst | Data Scientist**
+- **📍 Manchester, Connecticut**
 
 🔗 LinkedIn: https://linkedin.com/in/imanuelannoh
 🔗 GitHub: https://github.com/annohimanuel
