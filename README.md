@@ -162,10 +162,6 @@ data-warehouse-project/
 Imanuel Annoh
 Data Analyst | Data Scientist
 📍 Manchester, Connecticut
-	•	Master’s Degree in Data Science
-	•	Background in Biology and Healthcare Analytics
-	•	Experienced with SQL, Python, R, Tableau, Power BI, and data engineering workflows
-	•	Interested in healthcare, public sector, and business analytics roles
 
 🔗 LinkedIn: https://linkedin.com/in/imanuelannoh
 🔗 GitHub: https://github.com/annohimanuel
