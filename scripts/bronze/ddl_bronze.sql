@@ -1,6 +1,6 @@
 /*
 ====================================================
- Script: bronze_tables.sql
+ Script: ddl_bronze.sql
  Purpose:
    Defines the Bronze layer tables for the data warehouse.
    These tables store raw data ingested directly from CRM
