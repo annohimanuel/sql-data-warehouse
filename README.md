@@ -14,7 +14,7 @@ This repository is designed as a **portfolio project** to demonstrate my capabil
 
 ## 🏗️ Data Architecture
 
-!Data Architecture(docs/data_architecture_.png)
+![Data Architecture](docs/data_architecture_.png)
 
 This project follows the **Medallion Architecture** pattern using **Bronze**, **Silver**, and **Gold** layers to ensure scalability, data quality, and analytics readiness.
 
