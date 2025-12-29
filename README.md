@@ -16,8 +16,6 @@ This repository is designed as a **portfolio project** to demonstrate my capabil
 
 This project follows the **Medallion Architecture** pattern using **Bronze**, **Silver**, and **Gold** layers to ensure scalability, data quality, and analytics readiness.
 
-![Data Architecture](docs/data_architecture,png)
-
 ### Architecture Layers
 
 1. **Bronze Layer (Raw Data)**
