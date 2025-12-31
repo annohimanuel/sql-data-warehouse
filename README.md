@@ -126,7 +126,7 @@ SQL-based analytics are developed to provide insights into:
 These outputs are designed to be directly consumable by BI tools or downstream analytics workflows.
 
 More details can be found in: ## Analysis Requirements
-See: [Analysis Requirements](docs/analysis_requirement.md)
+See: [Analysis Requirements](docs/analysis_requirements.md)
 
 ---
 
